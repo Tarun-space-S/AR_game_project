@@ -3,7 +3,7 @@ unity based simple augmented reality game built using  language c#.
 
 # Trident Try (Game Name)
 
-The GHOST N’ GUN is an AR game developed in Unity for Android. It uses AR
+The Trident Try is an AR game developed in Unity for Android. It uses AR
 Core and XR plugin. It offers an immersive experience. It is a game inspired
 from the movie “pixels”. It is a brand new way of experiencing an AR game.
 
